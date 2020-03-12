@@ -21,23 +21,18 @@
   },
   {
   "name": "OwainGlyndwr",
-  "allyCode": "",
-  "discordId": "",
+  "allyCode": "882858452",
+  "discordId": "339603177005645825",
   },
   {
   "name": "ScruffyNerfherder",
-  "allyCode": "",
-  "discordId": "",
+  "allyCode": "464462335",
+  "discordId": "418048585448292363",
   },
   {
   "name": "Acheron",
-  "allyCode": "",
-  "discordId": "",
-  },
-  {
-  "name": "mikeyblueeyez",
-  "allyCode": "",
-  "discordId": "",
+  "allyCode": "972671697",
+  "discordId": "447263975109820419",
   },
   {
   "name": "Kramsharp",
@@ -46,8 +41,8 @@
   },
   {
   "name": "jcrandall21",
-  "allyCode": "",
-  "discordId": "",
+  "allyCode": "186844429",
+  "discordId": "172403131592736770",
   },
   {
   "name": "DarthHideous",
@@ -56,13 +51,13 @@
   },
   {
   "name": "Tbonedya84",
-  "allyCode": "",
-  "discordId": "",
+  "allyCode": "918933857",
+  "discordId": "210473439633342464",
   },
   {
   "name": "pieeater420",
-  "allyCode": "",
-  "discordId": "",
+  "allyCode": "519515521",
+  "discordId": "338372684482347009",
   },
   {
   "name": "RM Хан Кошкамышь",
@@ -71,28 +66,28 @@
   },
   {
   "name": "tremarco",
-  "allyCode": "",
-  "discordId": "",
+  "allyCode": "941377317",
+  "discordId": "288069531379695619",
   },
   {
   "name": "FernandoFigueroa",
-  "allyCode": "",
-  "discordId": "",
+  "allyCode": "377635125",
+  "discordId": "281272988685434880",
   },
   {
   "name": "DarthMol",
-  "allyCode": "",
-  "discordId": "",
+  "allyCode": "596555424",
+  "discordId": "340941562936819712",
   },
   {
   "name": "Kalop",
-  "allyCode": "",
-  "discordId": "",
+  "allyCode": "481158947",
+  "discordId": "178189539892920320",
   },
   {
   "name": "Ati",
   "allyCode": "861153873",
-  "discordId": "",
+  "discordId": "359630985249161216",
   },
   {
   "name": "TorukMakto",
@@ -101,43 +96,43 @@
   },
   {
   "name": "Maliis Redder",
-  "allyCode": "",
-  "discordId": "",
+  "allyCode": "825566319",
+  "discordId": ""521441764402397194,
   },
   {
   "name": "Heero",
-  "allyCode": "",
+  "allyCode": "291157215",
   "discordId": "",
   },
   {
   "name": "wojf",
-  "allyCode": "",
-  "discordId": "",
+  "allyCode": "439696895",
+  "discordId": "338994728156790795",
   },
   {
   "name": "GranaTapfel",
-  "allyCode": "",
-  "discordId": "",
+  "allyCode": "639415991",
+  "discordId": "243007372199460864",
   },
   {
   "name": "shot",
-  "allyCode": "",
-  "discordId": "",
+  "allyCode": "344694832",
+  "discordId": "268836191766315009",
   },
   {
   "name": "Luke's father",
-  "allyCode": "",
-  "discordId": "",
+  "allyCode": "966998698",
+  "discordId": "425590253865140235",
   },
   {
   "name": "LukeSkywalker",
-  "allyCode": "",
-  "discordId": "",
+  "allyCode": "233989684",
+  "discordId": "345326937239191555",
   },
   {
   "name": "mihey",
-  "allyCode": "",
-  "discordId": "",
+  "allyCode": "114726559",
+  "discordId": "310243341763608586",
   },
   {
   "name": "RM PKsTaz",
@@ -147,7 +142,7 @@
   {
   "name": "loulouyoda",
   "allyCode": "773549542",
-  "discordId": "",
+  "discordId": "424867667661422602",
   },
   {
   "name": "hyperion",
@@ -156,42 +151,82 @@
   },
   {
   "name": "darthjarjar",
-  "allyCode": "",
-  "discordId": "",
+  "allyCode": "186358327",
+  "discordId": "192502219419942912",
   },
   {
   "name": "psychopoet",
   "allyCode": "629855553",
-  "discordId": "",
+  "discordId": "227723719307558912",
   },
   {
-  "name": "",
+  "name": "ENEMIES",
   "allyCode": "",
   "discordId": "",
   },
   {
-  "name": "",
-  "allyCode": "",
+  "name": "Baros (enemy)",
+  "allyCode": "518172231",
   "discordId": "",
   },
   {
-  "name": "",
-  "allyCode": "",
+  "name": "Erginos (enemy)",
+  "allyCode": "399815133",
   "discordId": "",
   },
   {
-  "name": "",
-  "allyCode": "",
+  "name": "Nibiru (enemy)",
+  "allyCode": "116584939",
   "discordId": "",
   },
   {
-  "name": "",
-  "allyCode": "",
+  "name": "Thorn Starr (enemy)",
+  "allyCode": "494144955",
   "discordId": "",
   },
   {
-  "name": "",
-  "allyCode": "",
+  "name": "grygi (enemy)",
+  "allyCode": "459924565",
   "discordId": "",
   }
+  {
+  "name": "Toru (enemy)",
+  "allyCode": "241325732",
+  "discordId": "",
+  },
+{
+  "name": "Forcegasm (enemy)",
+  "allyCode": "181966741",
+  "discordId": "",
+  },
+{
+  "name": "Alex (enemy)",
+  "allyCode": "737965914",
+  "discordId": "",
+  },
+{
+  "name": "Dark Helmet (enemy)",
+  "allyCode": "549588338",
+  "discordId": "",
+  },
+{
+  "name": "nomadonekenobi (enemy)",
+  "allyCode": "295834128",
+  "discordId": "",
+  },
+{
+  "name": "ChaosJumbo (enemy)",
+  "allyCode": "345634734",
+  "discordId": "",
+  },
+{
+  "name": "FBGWILL (enemy)",
+  "allyCode": "587236559",
+  "discordId": "",
+  },
+{
+  "name": "komatias (enemy)",
+  "allyCode": "239699562",
+  "discordId": "",
+  },
 ]
