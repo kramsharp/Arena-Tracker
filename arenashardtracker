@@ -83,7 +83,8 @@
   "name": "Hello Kitty",
   "allyCode": "481158947",
   "discordId": "178189539892920320",
-  "userIcon": "cat_face"
+  
+  "userIcon": "cat_face",
   },
   {
   "name": "Ati",
@@ -94,7 +95,8 @@
   "name": "TorukMakto",
   "allyCode": "899155965",
   "discordId": "281346091155456000",
-  "userIcon": "clown_face"
+  
+  "userIcon": "clown_face",
   },
   {
   "name": "Maliis Redder",
