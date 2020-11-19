@@ -96,7 +96,7 @@
   "allyCode": "899155965",
   "discordId": "281346091155456000",
   
-  "userIcon": "clown_face",
+  "userIcon": "🤡",
   },
   {
   "name": "Maliis Redder",
@@ -192,41 +192,49 @@
   "name": "grygi (enemy)",
   "allyCode": "459924565",
   "discordId": "",
+  "userIcon": "☠️",
   },
   {
   "name": "Toru (enemy)",
   "allyCode": "241325732",
   "discordId": "",
+  "userIcon": "☠️",
   },
 {
   "name": "Forcegasm (enemy)",
   "allyCode": "181966741",
   "discordId": "",
+  "userIcon": "☠️",
   },
 {
   "name": "Alex (enemy)",
   "allyCode": "737965914",
   "discordId": "",
+  "userIcon": "☠️",
   },
 {
   "name": "Dark Helmet (enemy)",
   "allyCode": "549588338",
   "discordId": "",
+  "userIcon": "☠️",
   },
 {
   "name": "nomadonekenobi (enemy)",
   "allyCode": "295834128",
   "discordId": "",
+  "userIcon": "☠️",
   },
 {
   "name": "ChaosJumbo (enemy)",
   "allyCode": "345634734",
   "discordId": "",
+  "userIcon": "☠️",
   },
 {
   "name": "FBGWILL (enemy)",
   "allyCode": "587236559",
   "discordId": "",
+  "userIcon": "☠️",
   },
 {
   "name": "komatias (enemy)",
@@ -237,6 +245,7 @@
   "name": "ArmorKnight (enemy)",
   "allyCode": "989495394",
   "discordId": "",
+  "userIcon": "☠️",
   },
   {
   "name": "PksTaz",
@@ -247,27 +256,32 @@
   "name": "Santmaster (enemy)",
   "allyCode": "822596369",
   "discordId": "",
+  "userIcon": "☠️",
  
  },  
   {
   "name": "Dart Kew(enemy)",
   "allyCode": "982859584",
   "discordId": "",
+  "userIcon": "☠️",
   },  
   {
   "name": "NLBE ChopSjoj(enemy)",
   "allyCode": "641494581",
   "discordId": "",
+  "userIcon": "☠️",
   },
   {
   "name": "HOT Combo(enemy)",
   "allyCode": "116455886",
   "discordId": "",
+  "userIcon": "☠️",
   },
   {
   "name": "SuDo(enemy)",
   "allyCode": "736554374",
   "discordId": "",
+  "userIcon": "☠️",
   },
   {
   "name": "FBGWILL",
