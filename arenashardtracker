@@ -235,6 +235,8 @@
   "name": "Baros",
   "allyCode": "518172231",
   "discordId": "380588832598261760",
+  
+  "userIcon": "💪",
   },
   {
   "name": "Erginos",
@@ -313,9 +315,11 @@
   "userIcon": "☠️",
   },
 {
-  "name": "komatias (enemy)",
+  "name": "komatias",
   "allyCode": "239699562",
-  "discordId": "",
+  "discordId": "299212749567688705",
+  
+  "userIcon": "💪",
   },
   {
   "name": "ArmorKnight (enemy)",
