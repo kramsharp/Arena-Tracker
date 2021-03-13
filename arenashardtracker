@@ -412,5 +412,12 @@
   "discordId": "",
   
   "userIcon": "☠️",
+  },  
+  {
+  "name": "Olorin (enemy)",
+  "allyCode": "147623532",
+  "discordId": "",
+  
+  "userIcon": "☠️",
   },
 ]
