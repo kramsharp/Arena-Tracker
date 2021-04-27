@@ -440,5 +440,12 @@
   "discordId": "",
   
   "userIcon": "☠️",
+  }
+  {
+  "name": "Savarok (enemy)",
+  "allyCode": "476325384",
+  "discordId": "",
+  
+  "userIcon": "☠️",
   },
 ]
