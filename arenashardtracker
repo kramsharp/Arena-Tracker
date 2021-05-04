@@ -143,11 +143,11 @@
   "userIcon": "💪",
   },
   {
-  "name": "wojf",
+  "name": "wojf (enemy)",
   "allyCode": "439696895",
-  "discordId": "338994728156790795",
+  "discordId": "",
   
-  "userIcon": "💪",
+  "userIcon": "☠️",
   },
   {
   "name": "GranaTapfel",
@@ -174,13 +174,6 @@
   "name": "LukeSkywalker",
   "allyCode": "233989684",
   "discordId": "345326937239191555",
-  
-  "userIcon": "💪",
-  },
-  {
-  "name": "mihey",
-  "allyCode": "114726559",
-  "discordId": "310243341763608586",
   
   "userIcon": "💪",
   },
