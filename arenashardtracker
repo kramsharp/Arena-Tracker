@@ -119,6 +119,8 @@
   {
   "name": "Ati",
   "allyCode": "861153873",
+   "tagIdOnDrop": "359630985249161216",
+  "tagIdOnClimb": null,
   "discordId": "359630985249161216",
   
   "userIcon": "💪",
