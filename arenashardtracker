@@ -2,24 +2,32 @@
   {
   "name": "DarthAirwalker",
   "allyCode": "716553364",
+   "tagIdOnDrop": "377160299134058497",
+  "tagIdOnClimb": null,
   "discordId": "377160299134058497",
   "userIcon": "💪",
   },
   {
   "name": "DemonHunter",
   "allyCode": "158957683",
+  "tagIdOnDrop": "316318923605803019",
+  "tagIdOnClimb": null,
   "discordId": "316318923605803019",
   "userIcon": "💪",
   },
   {
   "name": "Fireball33",
   "allyCode": "445652797",
+  "tagIdOnDrop": "209287842554314753",
+  "tagIdOnClimb": null,
   "discordId": "209287842554314753",
   "userIcon": "💪",
   },
   {
   "name": "Tet ra",
   "allyCode": "255435635",
+  "tagIdOnDrop": "396694640763600897",
+  "tagIdOnClimb": null,
   "discordId": "396694640763600897",
   
   "userIcon": "💪",
@@ -27,6 +35,8 @@
   {
   "name": "OwainGlyndwr",
   "allyCode": "882858452",
+  "tagIdOnDrop": "339603177005645825",
+  "tagIdOnClimb": null,
   "discordId": "339603177005645825",
   
   "userIcon": "💪", 
@@ -34,6 +44,8 @@
   {
   "name": "ScruffyNerfherder",
   "allyCode": "464462335",
+   "tagIdOnDrop": "418048585448292363",
+  "tagIdOnClimb": null,
   "discordId": "418048585448292363",
   
   "userIcon": "💪",
@@ -41,6 +53,8 @@
   {
   "name": "Acheron",
   "allyCode": "972671697",
+  "tagIdOnDrop": "447263975109820419",
+  "tagIdOnClimb": null,
   "discordId": "447263975109820419",
   
   "userIcon": "💪",
@@ -56,6 +70,8 @@
   {
   "name": "jcrandall21",
   "allyCode": "186844429",
+  "tagIdOnDrop": "172403131592736770",
+  "tagIdOnClimb": null,
   "discordId": "172403131592736770",
   
   "userIcon": "💪",
@@ -63,6 +79,8 @@
   {
   "name": "DarthHideous",
   "allyCode": "589521268",
+  "tagIdOnDrop": "",
+  "tagIdOnClimb": null,
   "discordId": "",
   
   "userIcon": "💪",
@@ -70,6 +88,8 @@
   {
   "name": "Tbonedya84",
   "allyCode": "918933857",
+  "tagIdOnDrop": "210473439633342464",
+  "tagIdOnClimb": null,
   "discordId": "210473439633342464",
   
   "userIcon": "💪",
@@ -77,6 +97,8 @@
   {
   "name": "pieeater420",
   "allyCode": "519515521",
+  "tagIdOnDrop": "338372684482347009",
+  "tagIdOnClimb": null,
   "discordId": "338372684482347009",
   
   "userIcon": "💪",
@@ -84,6 +106,8 @@
   {
   "name": "RM Хан Кошкамышь",
   "allyCode": "997898771",
+  "tagIdOnDrop": "312634093118423040",
+  "tagIdOnClimb": null,
   "discordId": "312634093118423040",
   
   "userIcon": "💪",
@@ -91,6 +115,8 @@
   {
   "name": "tremarco",
   "allyCode": "941377317",
+  "tagIdOnDrop": "288069531379695619",
+  "tagIdOnClimb": null,
   "discordId": "288069531379695619",
   
   "userIcon": "💪",
@@ -98,6 +124,8 @@
   {
   "name": "FernandoFigueroa",
   "allyCode": "377635125",
+   "tagIdOnDrop": "281272988685434880",
+  "tagIdOnClimb": null,
   "discordId": "281272988685434880",
   
   "userIcon": "💪",
@@ -105,6 +133,8 @@
   {
   "name": "DarthMol",
   "allyCode": "596555424",
+  "tagIdOnDrop": "340941562936819712",
+  "tagIdOnClimb": null,
   "discordId": "340941562936819712",
   
   "userIcon": "💪",
@@ -112,6 +142,8 @@
   {
   "name": "Hello Kitty",
   "allyCode": "481158947",
+   "tagIdOnDrop": "178189539892920320",
+  "tagIdOnClimb": null,
   "discordId": "178189539892920320",
   
   "userIcon": "🐱",
@@ -128,6 +160,8 @@
   {
   "name": "Toruk Makto",
   "allyCode": "899155965",
+  "tagIdOnDrop": "260519341408124929",
+  "tagIdOnClimb": null,
   "discordId": "260519341408124929",
   
   "userIcon": "💪",
@@ -144,7 +178,7 @@
   "allyCode": "291157215",
   "discordId": "",
   
-  "userIcon": "💪",
+  "userIcon": "☠️",
   },
   {
   "name": "wojf (enemy)",
@@ -156,6 +190,8 @@
   {
   "name": "GranaTapfel",
   "allyCode": "639415991",
+  "tagIdOnDrop": "243007372199460864",
+  "tagIdOnClimb": null,
   "discordId": "243007372199460864",
   
   "userIcon": "💪",
@@ -163,6 +199,8 @@
   {
   "name": "shot",
   "allyCode": "344694832",
+   "tagIdOnDrop": "268836191766315009",
+  "tagIdOnClimb": null,
   "discordId": "268836191766315009",
   
   "userIcon": "💪",
@@ -170,6 +208,8 @@
   {
   "name": "Luke's father",
   "allyCode": "966998698",
+  "tagIdOnDrop": "425590253865140235",
+  "tagIdOnClimb": null,
   "discordId": "425590253865140235",
   
   "userIcon": "💪",
@@ -177,20 +217,17 @@
   {
   "name": "LukeSkywalker",
   "allyCode": "233989684",
+  "tagIdOnDrop": "345326937239191555",
+  "tagIdOnClimb": null,
   "discordId": "345326937239191555",
-  
-  "userIcon": "💪",
-  },
-  {
-  "name": "RM PKsTaz",
-  "allyCode": "000000000",
-  "discordId": "",
   
   "userIcon": "💪",
   },
   {
   "name": "loulouyoda",
   "allyCode": "773549542",
+   "tagIdOnDrop": "424867667661422602",
+  "tagIdOnClimb": null,
   "discordId": "424867667661422602",
   
   "userIcon": "💪",
@@ -198,6 +235,8 @@
   {
   "name": "hyperion",
   "allyCode": "628786559",
+  "tagIdOnDrop": "514789974487465985",
+  "tagIdOnClimb": null,
   "discordId": "514789974487465985",
   
   "userIcon": "💪",
@@ -205,6 +244,8 @@
   {
   "name": "MickeyBlueEyez",
   "allyCode": "186358327",
+   "tagIdOnDrop": "259535299883827201",
+  "tagIdOnClimb": null,
   "discordId": "259535299883827201",
   
   "userIcon": "💪",
@@ -212,6 +253,8 @@
     {
   "name": "Darthjarjar",
   "allyCode": "111975112",
+   "tagIdOnDrop": "192502219419942912",
+  "tagIdOnClimb": null,
   "discordId": "192502219419942912",
   
   "userIcon": "💪",
@@ -219,6 +262,8 @@
   {
   "name": "psychopoet",
   "allyCode": "629855553",
+   "tagIdOnDrop": "227723719307558912",
+  "tagIdOnClimb": null,
   "discordId": "227723719307558912",
   
   "userIcon": "💪",
@@ -232,6 +277,8 @@
   {
   "name": "Baros",
   "allyCode": "518172231",
+   "tagIdOnDrop": "380588832598261760",
+  "tagIdOnClimb": null,
   "discordId": "380588832598261760",
   
   "userIcon": "💪",
@@ -246,6 +293,8 @@
   {
   "name": "Nibiru",
   "allyCode": "116584939",
+  "tagIdOnDrop": "467538865578573834",
+  "tagIdOnClimb": null,
   "discordId": "467538865578573834",
   
   "userIcon": "💪",
@@ -253,6 +302,8 @@
   {
   "name": "Thorn Starr",
   "allyCode": "494144955",
+  "tagIdOnDrop": "535159947244208130",
+  "tagIdOnClimb": null,
   "discordId": "535159947244208130",
   
   "userIcon": "💪",
@@ -315,6 +366,8 @@
 {
   "name": "komatias",
   "allyCode": "239699562",
+  "tagIdOnDrop": "299212749567688705",
+  "tagIdOnClimb": null,
   "discordId": "299212749567688705",
   
   "userIcon": "💪",
@@ -329,6 +382,8 @@
   {
   "name": "PksTaz",
   "allyCode": "143187531",
+  "tagIdOnDrop": "451382415550578725",
+  "tagIdOnClimb": null,
   "discordId": "451382415550578725",
   
   "userIcon": "💪",
@@ -344,6 +399,8 @@
   {
   "name": "Dart Kew",
   "allyCode": "982859584",
+    "tagIdOnDrop": "752988510415487156",
+  "tagIdOnClimb": null,
   "discordId": "752988510415487156",
   
   "userIcon": "💪",
@@ -365,6 +422,8 @@
   {
   "name": "SuDo(enemy)",
   "allyCode": "736554374",
+    "tagIdOnDrop": "437005863337590785",
+  "tagIdOnClimb": null,
   "discordId": "437005863337590785",
   
   "userIcon": "💪",
@@ -372,6 +431,8 @@
   {
   "name": "sergio",
   "allyCode": "426193711",
+    "tagIdOnDrop": "288719987760168960",
+  "tagIdOnClimb": null,
   "discordId": "288719987760168960",
   
   "userIcon": "💪",
@@ -379,6 +440,8 @@
   {
   "name": "FBGWILL",
   "allyCode": "587236559",
+  "tagIdOnDrop": "277175914951868416",
+  "tagIdOnClimb": null,
   "discordId": "277175914951868416",
   
   "userIcon": "💪"
