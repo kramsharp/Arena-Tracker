@@ -61,11 +61,14 @@
   },
   {
   "name": "Kramsharp",
+   "comment": null,
   "allyCode": "732647929",
   "tagIdOnDrop": "271623533656932352",
   "tagIdOnClimb": null,
   "discordId": "271623533656932352",
-  "userIcon": "🦸‍",
+   "skip": false,
+   "time": 7
+  "userIcon": "emoji_2",
   },
   {
   "name": "jcrandall21",
